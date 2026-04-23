@@ -1,3 +1,5 @@
 *.py
 gcp
 azure
+app.log
+app4.log
